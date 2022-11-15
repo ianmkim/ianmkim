@@ -2,7 +2,7 @@ ianmkim.com
 
 Low level embedded, backend, AI dev.
 
-CS & Philosophy  @ dartmouth
+CS & Philosophy  @ Dartmouth
 Intern           @ Ghost Robotics Inc
 Co Founder       @ Daelus Space Inc
 
