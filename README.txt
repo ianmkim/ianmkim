@@ -1,6 +1,6 @@
-ianmkim.com
+Ian (Min Seok) Kim
 
-Low level embedded, backend, AI dev.
+Low level embedded, backend, AI.
 
 CS & Philosophy  @ Dartmouth
 Intern           @ Ghost Robotics Inc
