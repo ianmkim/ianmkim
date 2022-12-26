@@ -1,6 +1,6 @@
 Ian (Min Seok) Kim
 
-Low level embedded, backend, AI.
+Love low level. Can do backend. Can manage AI/ML
 
 CS & Philosophy  @ Dartmouth
 Intern           @ Ghost Robotics Inc
