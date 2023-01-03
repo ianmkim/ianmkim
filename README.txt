@@ -1,4 +1,4 @@
-Ian (Min Seok) Kim
+https://ianmkim.com
 
 Love low level. Can do backend. Can manage AI/ML
 
