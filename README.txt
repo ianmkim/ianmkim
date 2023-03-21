@@ -1,4 +1,4 @@
-https://ianmkim.com
+https://iankim.dev
 
 Love low level. Can do backend. Can manage AI/ML
 
